@@ -1,0 +1,46 @@
+<html>
+ <header>
+  <center> 
+   <p style="text-align:center">
+    <p style = "font-size:80px">
+     <font color = "white">
+       Welcome To Tik-Tac-Toe Home Page
+     </font>
+    </p>
+   </p>
+  </center>
+ </header>
+ 
+ <body style = "background-color:black;">
+  <center> 
+   <br>
+    <p style = "font-size:40px">
+     <a href = "file:///C:/Users/Tanzim/Desktop/Project/Project%20Pages/About%20US/About%20US.html">
+       About us
+     </a>
+    </br>
+   </font>
+  </center>
+
+  <center> 
+   <br>
+    <p style = "font-size:40px">
+     <a href = "file:///C:/Users/Tanzim/Desktop/Project/Project%20Pages/Table%20of%20contents/TableOfContent.html">
+       Project Proposal
+     </a>
+    </br>
+   </font>
+  </center>
+
+  <center> 
+   <br>
+    <p style = "font-size:40px"> 
+     <a href = "file:///C:/Users/Tanzim/Desktop/Project/Project%20Pages/Help/Help.html">
+       Help
+     </a>
+    </br>
+   </font>
+  </center>
+
+ </body>
+</html>
