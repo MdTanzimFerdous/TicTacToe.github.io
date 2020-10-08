@@ -1,0 +1,57 @@
+<html>
+<div id="navBar" align="center">
+						<h3>
+							<a href="index.html">Home</a> | 
+							<a href="About US.html">About Us</a> | 
+							<a href="Contact US.html">Contact Us</a> | 
+							<a href="problem history and statement.html">Problem History and Statement</a>|
+							<a href="Proposed Solution.html">Proposed Solution</a>|
+							<a href="Proposed System.html">Proposed System</a>
+						</h3>
+					</div>
+ <img src = "Tix-Tac-Toy.jpg" width = "95%", height = "150px"><br>
+ <header>
+  <center> 
+   <p style="text-align:center">
+    <p style = "font-size:40px">
+     <font color = "black">
+       <br> All About The Project: </br>
+     </font>
+    </p>
+   </p>
+  </center>
+ </header>
+ 
+ <body style = "background-color:powderblue;">
+  <center> 
+   <br>
+    <p style = "font-size:30px">
+     <a href = "Problem History and Statement.html">
+      Problem History and Statement
+     </a>
+    </br>
+   </font>
+  </center>
+
+  <center> 
+   <br>
+    <p style = "font-size:30px">
+     <a href = "Proposed Solution.html">
+      Proposed Solution
+     </a>
+    </br>
+   </font>
+  </center>
+
+  <center> 
+   <br>
+    <p style = "font-size:30px"> 
+     <a href = "Proposed System.html">
+      Proposed System
+     </a>
+    </br>
+   </font>
+  </center>
+
+ </body>
+</html>
