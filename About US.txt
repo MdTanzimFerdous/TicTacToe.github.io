@@ -1,17 +1,32 @@
 <!DOCTYPE html>
 <html>
+<head><title>About Us</title></head>
 <body style="background-color:powderblue;">
+
+<div id="navBar"align="center">
+						<h3>
+							<a href="index.html">Home</a> | 
+							<a href="About US.html">About Us</a> | 
+							<a href="Contact US.html">Contact Us</a> | 
+							<a href="problem history and statement.html">Problem History and Statement</a>|
+							<a href="Proposed Solution.html">Proposed Solution</a>|
+							<a href="Proposed System.html">Proposed System</a>
+						</h3>
+					</div>
+		<center>
+<img src = "Tix-Tac-Toy.jpg" width = "95%", height = "150px"><br>
+</center>			
 <center>
  <h1>Members of this project </h1>
 </center>
 
-<h2>Report Writer: </h2>
+<h3>Report Writer: </h3>
   <p>&nbsp;&nbsp;&nbsp; Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Nishat Anjum Chowdhury<br>
      &nbsp;&nbsp;&nbsp; ID &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 1912020100<br>
      &nbsp;&nbsp;&nbsp; Signature: Nishat.</p>
   <br>
  
-  <center><h1>Agreed persons with their work ::  </h1></center>
+  
 <h3>Programmers : </h3>
   1. Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Md.Tanzim Ferdous.(Team Leader)<br>
      &nbsp;&nbsp;&nbsp; ID &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 1912020112.<br>

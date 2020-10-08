@@ -1,21 +1,66 @@
 <html>
- <body style = "background-color:black;">
-  <center> 
+ <head>
+ <title>Home Page</title>
+ <center> 
    <p style="text-align:center">
     <p style = "font-size:100px">     
-     <font color = "white">
+     <font color = "black">
        Welcome To Tik-Tac-Toe
      </font>
     </p>
    </p>
   </center>
+  <div id="container" align="center">
+			
+				
+					
+					<div id="navBar">
+						<h3>
+							<a href="index.html">Home</a> | 
+							<a href="About US.html">About Us</a> | 
+							<a href="Contact US.html">Contact Us</a> | 
+							<a href="problem history and statement.html">Problem History and Statement</a>|
+							<a href="Proposed Solution.html">Proposed Solution</a>|
+							<a href="Proposed System.html">Proposed System</a>
+						</h3>
+					</div>
+ 
+  </head>
+ 
+ <body style="background-color:powderblue;">
+  
   <center>
-   <img src = "Tik_Tak_Toe.jpg" width = "900" hight = "700">
+   <img src = "Tik_Tak_Toe.jpg" width = "100%" hight = "700">
   </center>
   <center>
-   <a href = "Page1.html">
-    <p style = "font-size:40px">
-      Click here to go to Tik-Tac-Toe main page!
+   <div id="contat-us">
+					
+						<h1>Contact Us</h1>
+						
+						<form>
+						
+							<label>Name : </label>
+							<input type="text" name="name" placeholder="Enter Your Name">
+							<br><br>
+							
+							<label>Email : </label>
+							<input type="email" name="email" placeholder="Ex. your@email.com">
+							<br><br>
+							
+							<label>Phone : </label>
+							<input type="text" name="phone" placeholder="Ex. +8801*********">
+							<br><br>
+							
+							<label><strong>Message:</strong></label>
+							<br>
+							<textarea width="400px" cols="80" rows="10"></textarea>
+							<br><br>
+							
+							<input type="submit" value="Send">
+							<input type="reset" value="Clear">
+						</form>
+					
+					</div>
     </p>
    </a>
   </center>
